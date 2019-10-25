@@ -1,0 +1,19 @@
+{
+	"name": "friendfinder-master",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server.js",
+	"dependencies": {
+		"nodemon": "^1.19.4"
+	},
+	"devDependencies": {
+		"body-parser": "^1.17.1",
+		"express": "^4.15.2"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "nodemon server.js"
+	},
+	"author": "Dolwin Fernandes",
+	"license": "ISC"
+}
