@@ -33,4 +33,4 @@ The goal of this project was to create a Friend Finder app using JS, JQuery, Nod
 
 ## Author
 
-- **Dolwin Fernandes** | <strong>Live Demo:</strong> https://safe-atoll-36454.herokuapp.com/
+- **Dolwin Fernandes** | <strong>Live Demo:</strong>
