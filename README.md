@@ -7,16 +7,16 @@ The goal of this project was to create a Friend Finder app using JS, JQuery, Nod
 ## Screen Shots
 
 ![Screen shot 1](https://github.com/dolwinf/friendFinder/blob/master/images/homePage.PNG)
-Index Page
+<strong>Index Page</strong><br>
 
 ![Screen shot 2](https://github.com/dolwinf/friendFinder/blob/master/images/surveyRoute.PNG)
-Survey
+<strong>Survey</strong><br>
 
 ![Screen shot 3](https://github.com/dolwinf/friendFinder/blob/master/images/results.PNG)
-Results
+<strong>Results</strong><br>
 
 ![FriendsAPI](https://github.com/dolwinf/friendFinder/blob/master/images/friendsAPI.PNG)
-Friends API
+<strong>Friends API</strong><br>
 
 ## Technologies used
 
