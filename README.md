@@ -23,6 +23,7 @@ The goal of this project was to create a Friend Finder app using JS, JQuery, Nod
 - JQuery
 - Node.js
 - Express.js
+- Heroku
 
 ### Usuage for testing with code
 
@@ -32,4 +33,4 @@ The goal of this project was to create a Friend Finder app using JS, JQuery, Nod
 
 ## Author
 
-- **Dolwin Fernandes**
+- **Dolwin Fernandes** <strong>Live Demo:</strong> https://safe-atoll-36454.herokuapp.com/
