@@ -281,6 +281,8 @@
 					};
 
 					$.post("/api/friends", userData, function(data) {
+						$("#name").val(""),
+						$("#photo").val(""),
 						$("#q1").val(""),
 							$("#q2").val(""),
 							$("#q3").val(""),
